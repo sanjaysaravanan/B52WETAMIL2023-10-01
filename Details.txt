@@ -69,6 +69,13 @@ Task:
   Day-1: https://docs.google.com/document/d/1QznT1zM4mI6dG0TODx5Xjs1GquMoSHO3xZ1USDnVM-w/edit?usp=sharing
 
   How to submit Task:
+    write answers to required questions like,
+    Q1.txt
+    Q2.txt
+
+    create new repository and upload the created files
+
+    Take the URL of the repo and submit in the task form
 
 
 Next Session:
