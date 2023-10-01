@@ -1,0 +1,98 @@
+Array Problems - Basic Algorithms
+  1. Sorting
+
+LCM: least Common multiples
+
+[1,2,3]
+Object ( data storing variable ) 
+  key <-> value pair
+    {
+      name: 'Sanjay',
+      role: 'Developer',
+      desgination: 'Software Engineer',
+      isIndian: true,
+      isSingle: false,
+      age: 40
+    }
+
+Roadmap 1st Half:
+  Module 1: Were are Here
+    Basic Browser and JS basics
+
+  Module 2:
+    HTML CSS
+
+  Module 3:
+    DOM with JS
+
+  Module 4:
+    Async Programming in JS
+
+Topics:
+
+  Installation & Downloads:
+    Node Latest LTS(Long Time Support) version, (https://nodejs.org/en/download) dowload exe and install it.
+    VScode Extensions:
+      1. Live Server - Ritwick Dey
+      2. vscode Icons - VsCode Icons Team
+      3. Sonarlint - Sonarsource
+      4. EsLint - Microsoft
+      5. HTML CSS Support - ecmel
+      6. HTML Boilerplate - sidthesloth
+      7. Bracket Pair Colorization Toggler - Dzhavat Ushev
+      8. Tabnine
+      9. Prettier
+
+  Introduction to World Wide Web
+
+  working of internet with HTTP/HTTPS
+
+  Evolution Of Browsers
+    Mosaic
+    Natscap, Internet Explorer
+    Chrome, Mozilla, Edge
+
+  IP Address, MAC Address, HTTP Status, methods
+
+  IP ( Logical ) - Internet Protocol Address is used to identify network in internet( WWW/Golbal Public Network )
+    Client IP ( Our ISP IP address ), Server IP ( IP of the requested Domain facebook, twitter )
+
+  MAC( Physical Address ): Media Access Control Address -> local addresses to identify/access media on a local network
+
+  http1.1 vs http2:
+    reference --> https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+  
+  http vs https
+
+Task:
+
+  Day-1: https://docs.google.com/document/d/1QznT1zM4mI6dG0TODx5Xjs1GquMoSHO3xZ1USDnVM-w/edit?usp=sharing
+
+  How to submit Task:
+
+
+Next Session:
+  http status, response codes to understand connection
+    1xx -
+    2xx - 
+    3xx -
+    4xx -
+    5xx -
+
+  Rendering ---> Convert HTML code to Beatiful webpage
+    Hyper Text Mark Up Language
+    HTML Rendering Process Or DOM:
+      DOM --> Document Object Model
+        Skeleton Of Webpage
+
+      1. Browser Fetchs the HTML Document
+      2. Parses it via 
+        DOM Tree --> which is used to rendering
+      3. CSS -> Written Inside/outside HTML
+        CCSSOM Tree --> which is used to painting or format the HTML rendered
+        CSS: Presentation/Skin/Makeup ---> Beautification
+
+    JS:
+      functional Brain of HTML --> Client Side( Page User will see ) scripting / functional script
+      BrowserJs vs Nodejs
+
